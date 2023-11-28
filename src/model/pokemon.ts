@@ -27,3 +27,5 @@ export default class pokemon {
         this.created = created;
     }
 }
+
+
